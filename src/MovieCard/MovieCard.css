@@ -1,0 +1,38 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.movieImage img {
+  width: 250px;
+  height: 100%;
+  margin: 50px;
+}
+
+.movieDetails {
+  flex: 1;
+  padding: 20px;
+}
+
+.movieCard {
+  /*background-color: #FCF6CC;*/
+  color: #86AFFF;
+  padding: 30px;
+  align-items: center;
+  display: flex;
+}
+
+h1 {
+  font-family: "Itim", cursive;
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  color: #86AFFF;
+  /*background-color: #FCF6CC;*/
+}
+
+h2, h3, p {
+  padding: 0;
+  margin: 0;
+  font-family: "Itim", cursive;
+}

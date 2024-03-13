@@ -1,7 +1,7 @@
 export function MovieCard (props){
     return (
-        <div className="card">
-            <div className="movieCard">
+        <div className="movieCard">
+            <div className="nameCard">
                 <h2>Movie Card</h2>
             </div> 
             <div className="movieImage">
